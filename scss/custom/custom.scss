@@ -13,7 +13,7 @@
         content: '';
         height: 100%;
         width: 100%;
-        background: rgba(0, 0, 0, .4);
+        background: rgba(6, 18, 36, .5);
         left: 0;
         right: 0;
         top: 0;
@@ -102,7 +102,7 @@
         .stages_pretitle {
             color: #eed243;
             margin-bottom: 5px;
-            font: 400 .8rem 'Montserrat', sans-serif;
+            font: 600 .8rem 'Montserrat', sans-serif;
             @media (max-width: 990px) {
                 text-align: center;
             }
@@ -538,7 +538,7 @@
             color: #eed243;
             margin-bottom: 5px;
             text-align: center;
-            font: 400 .8rem 'Montserrat', sans-serif;
+            font: 600 .8rem 'Montserrat', sans-serif;
             @media (max-width: 990px) {
                 text-align: center;
             }
